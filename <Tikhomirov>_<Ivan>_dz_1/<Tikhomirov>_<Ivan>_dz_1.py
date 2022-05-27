@@ -1,3 +1,5 @@
+#TASK 1
+
 import math
 seconds = int(input('Введите промежуток времени в секундах: '))
 

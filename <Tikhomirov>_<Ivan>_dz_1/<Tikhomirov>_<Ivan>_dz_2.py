@@ -1,3 +1,5 @@
+#TASK 2
+
 import math
 
 numbers = [number**3 for number in range(1, 1000)]
